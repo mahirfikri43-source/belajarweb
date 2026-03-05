@@ -1,0 +1,1 @@
+alert("hai manusia kontol! selamat datang di web pertama gua");
